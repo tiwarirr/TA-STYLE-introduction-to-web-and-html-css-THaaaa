@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(8, 51, 116);
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h2{
+    color: rgb(51, 172, 51);
+}
+p{
+    font-size: 14px;
+    line-height: 1.7;
+}
+.experiences{
+    font-size: 18px;
+}
+.connect{
+    color: red;
+    margin-right: 2%;
+}
