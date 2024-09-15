@@ -1,15 +1,19 @@
-body{
-    background-color: rgb(243, 248, 220);
+body {
+    background-color: aqua;
 }
-h1{
+h1 {
     color: brown;
-    font-size: 30px;
 }
-#l1{
-    color: crimson;
-    font-size: 20px;
+.slt {
+background-color: lightgreen;
+font-size: 24px;
 }
-.type{
-    color: darkolivegreen;
-    font-size: 20px;
+#one{
+    color: bisque; 
+}
+#two{
+    color: blueviolet;
+}
+#three{
+    color: chocolate;
 }
